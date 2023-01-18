@@ -1,0 +1,52 @@
+input{
+    border: none;
+    border-bottom: 2px solid grey;
+    width: 90%;
+    margin: 10px auto;
+    text-align: center;
+    background-color: lightgrey;
+    display: block;
+    font-family: cursive;
+    font-size: 1rem;
+}
+
+input:focus{
+    outline: none;
+    font-size: 1rem;
+    font-family: cursive;
+}
+
+#add{
+    margin: auto;
+    display: block;
+    border: 1px solid grey;
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 1rem;
+    font-family: cursive;
+}
+
+div{
+    width: 88%;
+    margin: auto;
+    margin-top: 40px;
+    background-color: lightgrey;
+    padding: 20px;
+    height: 70vh;
+}
+
+li{
+    margin-top: 25px;
+    font-size: 1.2rem;
+    overflow-wrap: break-word;
+}
+
+p{
+    font-family: cursive;
+    font-size: 1.2rem;
+}
+
+ul{
+    width: 100%;
+}
+
